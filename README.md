@@ -1,1 +1,2 @@
 # Autonomous-mental-development-with-constructivist-paradigm
+With the development of agent interacting with its enviroment, we are trying to use another viable learning paradigm to explain the learning process, which animates as humans behaviors development process. Different with traditional algorithms (like reinforcement learing and curiosity-driven paradigm), the simualted agent lacks of information from the environment. Let's see how constructivist paradigm leads autonomous mental development in different kinds of interactional activities.
